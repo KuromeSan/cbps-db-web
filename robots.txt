@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referer-proxy.php
+Disallow: /referer-proxy.php?url=*
+Sitemap: https://db.cbps.xyz/sitemap.xml
